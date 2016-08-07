@@ -1,7 +1,7 @@
 ##############################################################################################################################
 # Name			: 	Invoke-2048.ps1
 # Description	: 	Play the game 2048 everywhere you find the "POWERshell"
-# Author		: 	This one is by Axel Pokrandt (APo)
+# Author		: 	This one is by Axel Anderson
 #				:	Base Powershell version created by: Micky Balladelli (https://balladelli.com/2048-powershell)
 # 				:	Original code in JavaScript by: Gabriele Cirulli (https://github.com/gabrielecirulli/2048)
 #				:	Story see 	http://de.wikipedia.org/wiki/2048_(Computerspiel)
